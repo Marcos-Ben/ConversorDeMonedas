@@ -3,7 +3,7 @@
 
 ## Descripción
 
-Este proyecto es un **Convertidor de Monedas** que permite a los usuarios convertir entre diferentes monedas utilizando tasas de cambio actualizadas. Los resultados de las conversiones se guardan en un archivo JSON para referencia futura.
+Este proyecto es un **Convertidor de Monedas** para el desafio de Alura que permite a los usuarios convertir entre diferentes monedas utilizando tasas de cambio actualizadas. Los resultados de las conversiones se guardan en un archivo JSON para referencia futura.
 
 ## Tecnologías Utilizadas
 
